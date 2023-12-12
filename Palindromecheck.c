@@ -1,6 +1,8 @@
-/*5. Write a function that reverses the string passed to it. The reverse action happens ”in place” i.e.
-the string passed by reference to the function will become the reversed string after the function
-terminates.*/
+/*5.Write a function to test if a string is a palindrome. Palindromes are strings that are the same from
+left to right as from right to left. For example, “dad” and “madam” are palindromes. “hello” is not.
+function prototype int isPalindrom (const char *message);
+the function returns 1 true, if the string pointed to by message is a palindrome and returns 0 false,
+if the string is not a palindrome.*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
