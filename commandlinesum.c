@@ -1,4 +1,4 @@
-/*rite a program named sum.c that adds up its command-line arguments. Which are assumed to be
+/*Write a program named sum.c that adds up its command-line arguments. Which are assumed to be
 integers. Running the program by typing
 sum 6 24 62
 should produce the following output
